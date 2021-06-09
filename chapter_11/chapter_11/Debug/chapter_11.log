@@ -1,5 +1,0 @@
-﻿  chapter_11.cpp
-  stonewt.cpp
-H:\C++\PrimerPlus\chapter_11\chapter_11\stonewt.cpp(19,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-  正在生成代码...
-  chapter_11.vcxproj -> H:\C++\PrimerPlus\chapter_11\Debug\chapter_11.exe
